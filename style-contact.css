@@ -1,0 +1,17 @@
+div h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 2rem;
+}
+
+.card {
+    margin: 0 auto;
+    padding-top: 2rem;
+}
